@@ -41,3 +41,4 @@ dump.rdb
 /config/credentials/development.key
 /config/credentials/production.key
 /node_modules
+app/assets/builds/tailwind.css
